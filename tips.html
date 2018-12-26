@@ -1,0 +1,19 @@
+---
+layout: default
+title: Tips
+---
+
+<!-- Posts Index
+================================================== -->
+<section class="recent-posts">
+    <div class="section-title">
+        <h2><span>Tips</span></h2>
+    </div>
+    <div class="row listrecent">
+            {% for post in site.categories.tips %}
+               {% include postbox.html %}          
+            {% endfor %}
+    </div>
+</section>
+</div>
+

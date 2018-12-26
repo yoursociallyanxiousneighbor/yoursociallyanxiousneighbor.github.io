@@ -1,0 +1,25 @@
+---
+---
+
+/* We need to add display:inline in order to align the '>>' of the 'read more' link */
+.post-excerpt p {
+	display:inline;
+}
+
+.mainheading span {
+    font-style: italic;
+}
+
+.navbar-brand {
+    font-family: Righteous;
+    font-size: 2.2rem;
+}
+
+.wrapfooter .read-length{
+    font-style: italic;
+}
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+	"syntax"
+;

@@ -1,0 +1,33 @@
+# Site
+name: "Your Socially Anxious Neighbor"
+description: "Share your story. Hear from others."
+meta_description: "ysan blog"
+baseurl: ''
+google_analytics: 'UA-131400184-1'
+disqus: 'your-socially-anxious-neighbor'
+mailchimp-list: ''
+
+# Authors
+authors:
+  Michael:
+    name: Michael
+    display_name: Michael Darrow
+    role: Site Creator
+    email: none
+    web: 
+    twitter: 
+    description: 'Michael Darrow is a medical student in the US who has struggled with social anxiety. 
+    He created this blog to not only share what has worked for him, but to also provide a public place for others to share their experiences with mental health. 
+    We invite you to submit your own articles, stories, quotes, etc for publication.'
+# Plugins
+plugins: 
+  - jekyll-paginate
+  - jekyll-archives
+    
+# Pagination 
+paginate: 6
+paginate_path: /page:num/
+    
+# Other
+markdown: kramdown
+highlighter: rouge
