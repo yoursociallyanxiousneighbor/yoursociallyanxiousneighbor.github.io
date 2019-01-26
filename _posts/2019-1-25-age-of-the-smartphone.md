@@ -33,3 +33,23 @@ After a few sentences into Amanda’s speech, I glanced over at Kathy who was no
 She was standing a little closer, with her iPhone held in front of her face, recording her daughter’s speech. 
 
 I know this wasn’t technically a funeral, but it was unsettling to see Kathy doing this. Displaying your phone to discreetly check a text message is one thing, but I thought it was so odd to actually record your daughter like she was giving a speech at her high school graduation.
+
+Amanda was giving an obituary for the most tragic event that could have happened to a family.
+And you use your cellphone to record your daughter? Was Kathy planning to watch this back at
+home? Show it to the grandparents at the next Christmas get together?
+
+It was disturbing.
+
+The grieving family did not see because they were sitting with their backs turned to us in the
+front. (Nor do I know if they would have cared given their frame of mind that day).
+
+But, regardless, I felt it was disrespectful. Did Kathy forget where she was? Like at a concert,
+was it that knee-jerk response that we all have to record everything?
+
+I live in a suburb of a big city, where no doubt girls struggle with self-worth in part thanks to
+social media, selfie-mania, and the inability to detach from their cell phones.
+
+And as adults, we also resist disconnecting from our phones, but it is imperative that we set a
+better example.
+
+Put down the phone and remember where you are.
