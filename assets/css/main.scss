@@ -10,14 +10,24 @@
     font-style: italic;
 }
 
+.mainheading .lead {
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.footnotes {
+    font-size: .8rem;
+}
+
 .navbar-brand {
-    font-family: Righteous;
+    font-family: 'Indie Flower', cursive;
     font-size: 2.2rem;
 }
 
 .wrapfooter .read-length{
     font-style: italic;
 }
+
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import

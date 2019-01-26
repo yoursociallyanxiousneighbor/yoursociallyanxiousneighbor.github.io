@@ -88,9 +88,18 @@ post_class: post-template
 </div>
 <!-- End Article
 ================================================== -->
-
-  
-
+{% if page.ads != false %}
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <ins class="adsbygoogle"
+        style="display:block; text-align:center;"
+        data-ad-layout="in-article"
+        data-ad-format="fluid"
+        data-ad-client="ca-pub-2643102617846419"
+        data-ad-slot="5404125293"></ins>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>  
+{% endif %}
 <!-- Begin Comments
 ================================================== -->
 {% if page.comments != false %}

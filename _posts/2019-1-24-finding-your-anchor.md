@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Finding Your Anchor"
+title:  "Social Anxiety Tip: Finding Your Anchor"
 author: Michael
 categories: [ tips ]
 image: assets/images/anchor.jpg
@@ -8,6 +8,7 @@ read-length: 4
 featured: true
 comments: true
 hidden: false
+ads: true
 ---
 
 You’re giving a toast for three hundred strangers at your best friend’s wedding tonight, and you’ve just woken up. 
@@ -20,8 +21,19 @@ You may as well be prepping for an apocalypse.
 
 Keeled over in the bathroom. Your eyes bloodshot, your back rounded as you hover over the toilet bowl. Cortisol and adrenaline shoot through your veins, as you now stagger towards the shower, reaching out a claw to turn on the water.
 
-But last night I felt pretty good! 
-Why does this morning feel so much like doomsday? 
+*But last night I felt pretty good!*
+Why does this morning feel so much like *doomsday*? 
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2643102617846419"
+     data-ad-slot="5404125293"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 Let’s discuss this experience, which many of you may relate to in some degree. 
 
@@ -31,10 +43,22 @@ Often times when it comes to anxiety issues, the situations we fear are unlikely
 
 For a fear of public speaking, we may be preoccupied with issues pertaining to how others perceive us. You may worry about stuttering and coming across as peculiar. Others may worry about turning red, forgetting what to say, etc. 
 
-The list goes on and on, but each fear has one commonality: they are not life-changing ‘disasters.’ If they came true, it would not be a doomsday. 
+The list goes on and on, but each fear has one commonality: they are *not* life-changing ‘disasters.’ If they came true, it would *not* be a *doomsday*. 
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2643102617846419"
+     data-ad-slot="5404125293"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 But our brain, for some reason, is convinced otherwise and instead chooses to protect us from the battlefield by feeding us the fight or flight response. 
- And you know what the intense, nervous symptoms do? They make us believe the toast is in fact a battlefield. And they make us believe that if we did stutter in this ‘battlefield,’ than the consequences would be unlivable, so we must instead avoid the situation at all costs to prevent ourselves from losing everything. 
+
+And you know what the intense, nervous symptoms do? They make us believe the toast *is* in fact a battlefield. And they make us believe that if we did stutter in this ‘battlefield,’ than the consequences would be unlivable, so we must instead avoid the situation at all costs to prevent ourselves from *losing everything*. 
 
 Well that’s not logical, right? But we forget, as intelligent as we are. 
 
@@ -50,7 +74,18 @@ You may not have a place in mind, but perhaps you have a person in mind. A perso
 
 It could be a pet. You’re little cockadoodle looking at you right now with her tongue out. She’s not going to care if you forget your name while introducing yourself at a job interview. 
 
-Whatever you think of, this is your anchor. Stammer, stutter, slur your words: that anchor isn’t moving. It doesn’t care if the storm carries ninety mile an hour winds, it’ll hold without any problem. 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2643102617846419"
+     data-ad-slot="5404125293"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+Whatever you think of, this is your *anchor*. Stammer, stutter, slur your words: that anchor isn’t moving. It doesn’t care if the storm carries ninety mile an hour winds, it’ll hold without any problem. 
 
 Now try thinking of a few more while you’re at it. Make a list if you’d like. Feel free to add objects. A snowglobe. A candle. This website isn’t going anywhere – and I’m always available by email. So YSAN counts too, if you like. 
 
@@ -58,4 +93,4 @@ If you spend some time with this, you may develop quite a list of anchors. An ex
  
 The sun will shine tomorrow as it did this morning. Your significant other is still going to happily dream. And you still may be keeled over in the bathroom. 
 
-But now, you’ve given yourself an important reminder. You’ve started to recognize that perhaps there isn’t as much at stake. There is no apocalypse, thankfully, no matter how much our mind makes it seem.  
+But *now*, you’ve given yourself an important reminder. You’ve started to recognize that perhaps there isn’t as much at stake. There is no apocalypse, thankfully, no matter how much our mind makes it seem.  

@@ -19,6 +19,14 @@ authors:
     description: 'Michael Darrow is a medical student in the US who has struggled with social anxiety. 
     He created this blog to not only share what has worked for him, but to also provide a public place for others to share their experiences with mental health. 
     We invite you to submit your own articles, stories, quotes, etc for publication.'
+  Diane:
+    name: Diane
+    display_name: Diane Miller
+    role: Guest Author
+    email: none
+    web:
+    twitter:
+    description: 'Dianne Miller lives in Seattle, Washington with her husband.'
 # Plugins
 plugins: 
   - jekyll-paginate
@@ -30,4 +38,6 @@ paginate_path: /page:num/
     
 # Other
 markdown: kramdown
+kramdown:
+  footnote_backlink: ''
 highlighter: rouge
