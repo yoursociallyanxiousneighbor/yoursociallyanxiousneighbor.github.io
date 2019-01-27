@@ -5,7 +5,7 @@ meta_description: "ysan blog"
 baseurl: ''
 google_analytics: 'UA-131400184-1'
 disqus: 'your-socially-anxious-neighbor'
-mailchimp-list: ''
+mailchimp-list: 'https://ysanblog.us7.list-manage.com/subscribe/post?u=14a8443fdc47d74e9db888b8a&amp;id=4f94ab6de2'
 
 # Authors
 authors:
