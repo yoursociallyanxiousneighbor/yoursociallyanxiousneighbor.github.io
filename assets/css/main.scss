@@ -6,12 +6,21 @@
 	display:inline;
 }
 
+.mainheading {
+    @media screen and (max-width: 550px) {
+        padding: 0rem 0rem;
+    }
+}
+
 .mainheading span {
     font-style: italic;
 }
 
 .mainheading .lead {
     font-family: 'Roboto', sans-serif;
+    @media screen and (max-width: 550px) {
+        font-size: .9rem;
+    }
 }
 
 .footnotes {
@@ -21,6 +30,9 @@
 .navbar-brand {
     font-family: 'Indie Flower', cursive;
     font-size: 2.2rem;
+    @media screen and (max-width: 550px) {
+        font-size: 1.2rem;
+    }
 }
 
 .wrapfooter .read-length{

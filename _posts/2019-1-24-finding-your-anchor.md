@@ -24,6 +24,10 @@ Keeled over in the bathroom. Your eyes bloodshot, your back rounded as you hover
 *But last night I felt pretty good!*
 Why does this morning feel so much like *doomsday*? 
 
+Let’s discuss this experience, which many of you may relate to in some degree. 
+
+The first question: what are we scared of? In this example, it’s giving a toast to a large group of people. 
+
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
@@ -34,27 +38,12 @@ Why does this morning feel so much like *doomsday*?
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-
-Let’s discuss this experience, which many of you may relate to in some degree. 
-
-The first question: what are we scared of? In this example, it’s giving a toast to a large group of people. 
 
 Often times when it comes to anxiety issues, the situations we fear are unlikely to lead to significant life change, even if they don’t go as well as we would like them to. (Otherwise, if we only worried about truly dangerous situations, like crossing the street in heavy traffic when it’s not our turn, than our nerves would be considered a healthy dose of protective anxiety).
 
 For a fear of public speaking, we may be preoccupied with issues pertaining to how others perceive us. You may worry about stuttering and coming across as peculiar. Others may worry about turning red, forgetting what to say, etc. 
 
 The list goes on and on, but each fear has one commonality: they are *not* life-changing ‘disasters.’ If they came true, it would *not* be a *doomsday*. 
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-2643102617846419"
-     data-ad-slot="5404125293"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 But our brain, for some reason, is convinced otherwise and instead chooses to protect us from the battlefield by feeding us the fight or flight response. 
 
@@ -70,10 +59,6 @@ Is it your house? A parent’s house?
 It may be a public park. Your place of work.  
 I personally like thinking of my grandparent’s house. I only have positive feelings associated with that place: Thanksgiving, pie, football, a lot of sitting on the couch. 
 
-You may not have a place in mind, but perhaps you have a person in mind. A person that isn’t going to change should you stammer in front of a hundred people. 
-
-It could be a pet. You’re little cockadoodle looking at you right now with her tongue out. She’s not going to care if you forget your name while introducing yourself at a job interview. 
-
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
@@ -84,6 +69,10 @@ It could be a pet. You’re little cockadoodle looking at you right now with her
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+
+You may not have a place in mind, but perhaps you have a person in mind. A person that isn’t going to change should you stammer in front of a hundred people. 
+
+It could be a pet. You’re little cockadoodle looking at you right now with her tongue out. She’s not going to care if you forget your name while introducing yourself at a job interview. 
 
 Whatever you think of, this is your *anchor*. Stammer, stutter, slur your words: that anchor isn’t moving. It doesn’t care if the storm carries ninety mile an hour winds, it’ll hold without any problem. 
 
